@@ -14,7 +14,7 @@ body{
 }
 .card{
   background: white;
-  margin: 120px 50px 50px 50px;
+  margin: 120px 40px 40px 40px;
   border-radius: 5px;
   box-shadow: 2px 2px 9px 2px #8BC34A;
 }
@@ -37,7 +37,7 @@ body{
   opacity: 0.7;
 }
 .cardText p{
-  font-size: 30px;
+  font-size: 20px;
   opacity: 0.7;
 }
 .cardText button{
